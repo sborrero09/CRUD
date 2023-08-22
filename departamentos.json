@@ -1,0 +1,19 @@
+{
+    "departamentos": [
+        {
+            "idDepartamento": 1,
+            "nomDepartamento": "satander",
+            "ciudades": [
+                {
+                    "idCiudad": 1,
+                    "nomCiudad": "bucara",
+                    "imagen": "bga-jpg",
+                    "coordenadas": {
+                        "lat": "123",
+                        "lon": "321"
+                    }
+                }
+            ]
+        }
+    ]
+}
